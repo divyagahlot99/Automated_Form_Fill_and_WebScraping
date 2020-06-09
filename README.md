@@ -22,3 +22,6 @@ Since the data to be retrieved is Form-type, Selenium is used to automate the pr
 > requess
 > time
 
+## How to run the File
+Simply download the python file and run it either via cmd prompt or directly. Ensure all the dependencies have been installed. The script will take a while (approx. 30 sec) to initiate and establish connection with the chrome driver. Once the website is launced, forms will be filled automatically based on your inputs in the python file (modify details as per your needs). Do keep in mind a time delay of 10 sec is given before every POST to the next page to prevent presubmission of forms, and hence be patient!
+
